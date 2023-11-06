@@ -1,135 +1,135 @@
 [[Hayagriva]]
 arch = "aarch64"
-git-tree-sha1 = "b8ac634a4cd44bafc3d97f1d2ae373cbab47e4ac"
+git-tree-sha1 = "f3dbb4204b50b49955b39585fc6a9a69b1a655a1"
 os = "macos"
 
     [[Hayagriva.download]]
-    sha256 = "ec8af54ede30afefd886dc60f139948faa7f7284c9f333e7687cb73831666f56"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "6fa0aa6d75c31122adb4f20f46f33c949fbc3eebcac5ca91a56b1898b506aaa3"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.aarch64-apple-darwin.tar.gz"
 [[Hayagriva]]
 arch = "aarch64"
-git-tree-sha1 = "188bbc591a4242f85bddc428bae1aa5fc943452d"
+git-tree-sha1 = "0a49cd654b4a9f146cabacf24b41f10e7cc8762d"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "1f2922f3c07a282a3e0a68fd72f9b6925f80f6aa561a29ba69e104d5c4f4af7e"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "b9e428efe5e1bb7c85dd04e11f9157aa527acd2d8c135d564a69f0432d94a95f"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.aarch64-linux-gnu.tar.gz"
 [[Hayagriva]]
 arch = "aarch64"
-git-tree-sha1 = "75cdc6f6a5e583329ade280f7be7f9ce6cb500c6"
+git-tree-sha1 = "fc437cd7a9b738599a0d1d682c34f92c5990b3e0"
 libc = "musl"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "d2f83b4257518636569a7b3545e6274d46d7aa344dc4ffdc3bc758f5af7428e4"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.aarch64-linux-musl.tar.gz"
+    sha256 = "17498a4714d9088f81fcf0f951a15f9209a61d23a1641d1579bd6c2abdd3f0b8"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.aarch64-linux-musl.tar.gz"
 [[Hayagriva]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "85ebfe10d3b64b22e5cc6628f6c14ef6875cca55"
+git-tree-sha1 = "5676395d090587c86adddc2f4264eff52e74af10"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "9df8b83fe897da43775055d0146ca8e8da473d3adea9681ac95d08e444900f2c"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "113b91b63b92d626016d1c6d4b8f1affa4af522d431d3f010f5fcd186c3f9319"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[Hayagriva]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "baf074a4735683d47255467f4b4fccbb6b3940f0"
+git-tree-sha1 = "48fb12db5628e0fc138a69e025c941eb0b57fe06"
 libc = "musl"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "f93deaa6f2c4b2faf681925de527dd80055c78192bad2176451ab9d246706fa6"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "a5f4d2505501849d7ff538c78b4c5c03fc7147c17d6805e0ea5ccdf46a528050"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.armv6l-linux-musleabihf.tar.gz"
 [[Hayagriva]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f4dcb6024999d09eeed2838b865c8210d5247eb7"
+git-tree-sha1 = "17fb691bf6c8852dfa749aec6cee53010f1946aa"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "bb8e7b6c2bc4fe516186753c79fd932ece9cdb103c417b6b83fbb4d1d9f1fcbd"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ff2dd414ab023d9d4d6b9b343da30eb94eb99288520a40dea32d3c98891eba36"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[Hayagriva]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7b32b52d77674c523039bf3ee4c7c43fd7dda7ef"
+git-tree-sha1 = "ab3690185aaf29118a7c10d9e3b1105054b4aa98"
 libc = "musl"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "89a22758424533e2b42625d1b8d7ba9265fb71fa09d576ebc93d06942570b61f"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "bbbaa7d821aa5a8132e156bb8848c4d5d2521617f112d9c4c39cf946566702e7"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.armv7l-linux-musleabihf.tar.gz"
 [[Hayagriva]]
 arch = "i686"
-git-tree-sha1 = "3438c2881b1c1881c70c5dcec474e2a98a0918cd"
+git-tree-sha1 = "4106427ed6961022f666812dce36c020a9392160"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "0fdaa7f9210f402c418e75a7f6db877307a50375b179863fb4e4ad65ce78602a"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.i686-linux-gnu.tar.gz"
+    sha256 = "76029d288f9c3a4e960be7fc047bc6672a7e21860a001276c486ba979e6ef091"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.i686-linux-gnu.tar.gz"
 [[Hayagriva]]
 arch = "i686"
-git-tree-sha1 = "939442a943247c75ffefd9c62807f20b5b984142"
+git-tree-sha1 = "b2dc0e6ccd90ad9e33f11aaca3b983120a0bd215"
 libc = "musl"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "a256f410da450a7b70f0c8b5763a241c22e98224ac8c8ddf14cb00529afa2ebe"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.i686-linux-musl.tar.gz"
+    sha256 = "6d764aae8c247f8285fb0ce098966432012a460189eb51fc5b21ac07fd25a827"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.i686-linux-musl.tar.gz"
 [[Hayagriva]]
 arch = "powerpc64le"
-git-tree-sha1 = "0c0d7ae883f3464af417fcfb3980906f69ef528e"
+git-tree-sha1 = "7ddc4a92d5b768c67ce209c6cb947c16e390596f"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "ab473540fb1b6acefa84f70b22e09ee40935d9a51986e7cb334ab4425ba853b5"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "28373bc8ceb6494b11789afa112231bb018e8b0c3f96dfe4f05815d9a243b56e"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.powerpc64le-linux-gnu.tar.gz"
 [[Hayagriva]]
 arch = "x86_64"
-git-tree-sha1 = "5db7914fe109ce9c413f644b8f8d369d440f716e"
+git-tree-sha1 = "5dd4bdf957b35b6679f94b9db486cb1ab4d68049"
 os = "macos"
 
     [[Hayagriva.download]]
-    sha256 = "eaba5305de83787e9c864185fd0d487007a32921854a24f5dc419b8856d21ad9"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d14699300c6d64a74a26480cc780a0f5c8b0f9081812028566fd8f8688563d4f"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.x86_64-apple-darwin.tar.gz"
 [[Hayagriva]]
 arch = "x86_64"
-git-tree-sha1 = "12878957fc8f2511eb3f1f5d7dd6aa5f7d8adfb8"
+git-tree-sha1 = "eb9a3367cc5e0959b0ba6469b504983aec852c44"
 libc = "glibc"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "5e4eabd2e385c6fb91a80a2844c3d3a2b410fb6cbb2a4832701f8e4c7b6067eb"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "6003a106997a977d1c910208ccff6c13ab8be15e7f45d078a9bddfedc3e4a820"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.x86_64-linux-gnu.tar.gz"
 [[Hayagriva]]
 arch = "x86_64"
-git-tree-sha1 = "22f11c5005a2460a5b0cfb58597d2c7bc44f9f0a"
+git-tree-sha1 = "5f9dbec0141a21da361d020fb09f46cf5e978780"
 libc = "musl"
 os = "linux"
 
     [[Hayagriva.download]]
-    sha256 = "115b1efb6a2452295814fb01311a26cdaf61594ccbf1fbc00223282735f3a05f"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.x86_64-linux-musl.tar.gz"
+    sha256 = "26dfc353860be72219618dbd06cd1aeda9268cfabea91e65b5b7993184c4b9eb"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.x86_64-linux-musl.tar.gz"
 [[Hayagriva]]
 arch = "x86_64"
-git-tree-sha1 = "8677aee6e646647a32b6390b9f50323eeb3c45d9"
+git-tree-sha1 = "e5d1c4db1d454c08e73de1b1f8f682f5f56767d9"
 os = "freebsd"
 
     [[Hayagriva.download]]
-    sha256 = "822317d2f4d653e8df77c887c78a5b39faf44060c8a3f59e8c6165cacdda27f8"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cff950435b6875470ccb862773b92298669543eaead6431988e4d70f16c056f8"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.x86_64-unknown-freebsd.tar.gz"
 [[Hayagriva]]
 arch = "x86_64"
-git-tree-sha1 = "56306daf44cb4093f7bbd968de7f66b350cc3bbb"
+git-tree-sha1 = "7ded5fc40bc127fbc063b215f0748bf099be91d1"
 os = "windows"
 
     [[Hayagriva.download]]
-    sha256 = "3f24c4542eda67dc5be3738a6f8ccdc745439605a271442c8a0bfc9aae3d78d0"
-    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.3.0+0/Hayagriva.v0.3.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "c020508f83ce472a595e3f443e71f06b49b729674c71df342abeb29bb65f6faa"
+    url = "https://github.com/JuliaBinaryWrappers/Hayagriva_jll.jl/releases/download/Hayagriva-v0.4.0+0/Hayagriva.v0.4.0.x86_64-w64-mingw32.tar.gz"
